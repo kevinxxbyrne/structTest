@@ -10,6 +10,8 @@ namespace structTest
     {
         static void Main(string[] args)
         {
+
+            var p = new Person();
         }
     }
 }
